@@ -76,7 +76,7 @@ def  PrimeChek(number):
          i+=6
      return True 
  
-number=14;
+number=13;
 if PrimeChek(number):
     print(number,"is a prime number")
 else:
