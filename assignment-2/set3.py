@@ -50,7 +50,7 @@ def two_sum(nums, target):
 
 # Example usage
 nums = [2, 7, 11, 15]
-target = 10
+target = 9
 result = two_sum(nums, target)
 if result:
     print(f"The indices of the two numbers are: {result[0]} and {result[1]}")
